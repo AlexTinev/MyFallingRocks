@@ -1,0 +1,6 @@
+D:\Alex\SoftUni\C# AdvancedHomeworks\RocksConsoleCode\RocksConsoleCode\bin\Debug\RocksConsoleCode.exe.config
+D:\Alex\SoftUni\C# AdvancedHomeworks\RocksConsoleCode\RocksConsoleCode\bin\Debug\RocksConsoleCode.exe
+D:\Alex\SoftUni\C# AdvancedHomeworks\RocksConsoleCode\RocksConsoleCode\bin\Debug\RocksConsoleCode.pdb
+D:\Alex\SoftUni\C# AdvancedHomeworks\RocksConsoleCode\RocksConsoleCode\obj\Debug\RocksConsoleCode.csprojResolveAssemblyReference.cache
+D:\Alex\SoftUni\C# AdvancedHomeworks\RocksConsoleCode\RocksConsoleCode\obj\Debug\RocksConsoleCode.exe
+D:\Alex\SoftUni\C# AdvancedHomeworks\RocksConsoleCode\RocksConsoleCode\obj\Debug\RocksConsoleCode.pdb
